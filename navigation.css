@@ -1,0 +1,9 @@
+.navbar{
+			background-color: yellow;
+			padding: 2%;
+			text-align: center;
+		}
+		.navbar a{
+			margin-right: 5%;
+			text-decoration: !important;
+			color: black;
